@@ -15,6 +15,6 @@ The main features of the distro:
 
 Based on the Linux From Scratch project https://www.linuxfromscratch.org/
 
-## The LFSPD binaries located in 
+## The LFSPD binaries will be located in 
 
- <b>[Distros/](Disrtros/)</b>
+ <b>[Distros](Distros)</b>
