@@ -1,6 +1,6 @@
 ## Linux From Scratch PD
 
-This is the base system for SPD software docker container.
+This is the set of Linux packages for docker container.
 
 The main features of the distro:
 - minimalistic linux distribuition (no X11, no GUIs, no mans, no locales etc.).
