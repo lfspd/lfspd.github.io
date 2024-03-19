@@ -1,4 +1,4 @@
-### Linux For SPD distributions
+### Linux From Scratch PD distributions
 
 - [lfspd.8.tar.gz](https://ln5.sync.com/dl/dc939a1d0/qpvydk7k-nmvr3554-uvb36zr5-kaxecqch) image size <b>835 Mb</b> 
 
