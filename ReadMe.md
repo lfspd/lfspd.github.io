@@ -3,15 +3,17 @@
 This is the set of Linux packages for docker container.
 
 The main features of the distro:
-- minimalistic linux distribuition (no X11, no GUIs, no mans, no locales etc.).
-    
-  supposed that all applications will run in docker container in batch mode
+- supposed that applications will run in docker container in batch mode
+
+  Distro does not contain X11, GUIs, mans, locales, tests, tutorials etc.
+
+  <b>It doesn't require any OS. This is "fake" Linux, imitates Linux distribution.</b>
 - all packages built from sources
-- minimized by size (compiled with size optimization flags + stripped & cleaned) 
-- set of packages for scientific programming 
+- minimized by size (compiled with size optimization flags + stripped & cleaned)
+- set of packages for scientific programming <b>[Readme/packages.md](Readme/packages.md)</b>
 - the latest versions of all the packages : glibc, gcc, perl, cmake, python etc.
 - packages installed in <code>/usr /usr/local</code>. Greatly simpifies <b>setup scripts</b>
-- customizable. Package not needed - comment it out & rebuild. To add  - valeriy.onuchin@yandex.ru 
+- customizable. Package not needed - comment it out & rebuild.
 
 Based on the Linux From Scratch project https://www.linuxfromscratch.org/
 
